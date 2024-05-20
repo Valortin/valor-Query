@@ -1,0 +1,17 @@
+{
+  "name": "valor-Query",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ".",
+  "dependencies": {
+    "@apollo/client": "^3.10.4",
+    "graphql": "^16.8.1",
+    "node-fetch": "^3.3.2"
+  }
+}
